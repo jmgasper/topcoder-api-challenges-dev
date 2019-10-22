@@ -1,7 +1,7 @@
 {
-  "name": "@topcoder-platform/topcoder-api-challenges-v4-wrapper",
+  "name": "@topcoder-platform/topcoder-api-challenges-v4-wrapper-dev",
   "version": "1.0.5",
-  "description": "Services_that_provide_access_and_interaction_with_all_sorts_of_challenges_including_design_dev_single_round_matches_and_marathon_matches_",
+  "description": "(DEV) Services_that_provide_access_and_interaction_with_all_sorts_of_challenges_including_design_dev_single_round_matches_and_marathon_matches_",
   "license": "MIT",
   "main": "src/index.js",
   "scripts": {
