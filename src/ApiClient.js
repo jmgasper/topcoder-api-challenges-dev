@@ -48,7 +48,7 @@
      * @type {String}
      * @default http://api.topcoder.com/v4
      */
-    this.basePath = 'http://api.topcoder.com/v4'.replace(/\/+$/, '');
+    this.basePath = 'http://api.topcoder-dev.com/v4'.replace(/\/+$/, '');
 
     /**
      * The authentication methods to be included for all API calls.
